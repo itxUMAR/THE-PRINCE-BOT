@@ -130,7 +130,7 @@ global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
 global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
-global.thumb = fs.readFileSync('./Assets/Prince.png')
+global.thumb = fs.readFileSync('./Assets/1706534223007.png')
 //💌------------------------------------------💌
 
 
