@@ -1,10 +1,11 @@
 {
   "name": "whatsapp-bot (PRINCE-BOT)",
+  "logo": "https://telegra.ph/file/55d1084aaae113bbe72ed.jpg",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/PRINCE-GDS/THE-PRINCE-BOT",
+  "repository": "https://github.com/itxUMAR/THE-PRINCE-BOT",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
