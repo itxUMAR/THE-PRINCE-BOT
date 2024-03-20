@@ -60,17 +60,17 @@ global.APIKeys = { // APIKey Here
 
 
 // Bot Images 
-global.imagen1 = fs.readFileSync("./Assets/menus/Menu.png")
-global.imagen2 = fs.readFileSync("./Assets/menus/Menu1.jpg")
-global.imagen3 = fs.readFileSync("./Assets/menus/Menu2.jpg")
-global.imagen4 = fs.readFileSync("./Assets/menus/Menu3.jpg")
-global.imagen5 = fs.readFileSync("./Assets/menus/img2.jpg")
-global.imagen6 = fs.readFileSync("./Assets/menus/img5.jpg")
-global.imagen7 = fs.readFileSync("./Assets/menus/img6.jpg")
-global.imagen8 = fs.readFileSync("./Assets/menus/img8.jpg")
-global.imagen9 = fs.readFileSync("./Assets/menus/img9.jpg")
-global.imagen10 = fs.readFileSync("./Assets/menus/img11.jpg")
-global.imagen11 = fs.readFileSync("./Assets/menus/img12.jpg")
+global.imagen1 = fs.readFileSync("./Assets/1706534223007.png")
+global.imagen2 = fs.readFileSync("./Assets/1706534223007.png")
+global.imagen3 = fs.readFileSync("./Assets/1706534223007.png")
+global.imagen4 = fs.readFileSync("./Assets/1706534223007.png")
+global.imagen5 = fs.readFileSync("./Assets/1706534223007.png")
+global.imagen6 = fs.readFileSync("./Assets/1706534223007.png")
+global.imagen7 = fs.readFileSync("./Assets1706534223007.png")
+global.imagen8 = fs.readFileSync("./Assets/1706534223007.png")
+global.imagen9 = fs.readFileSync("./Assets/1706534223007.png")
+global.imagen10 = fs.readFileSync("./Assets/1706534223007.png")
+global.imagen11 = fs.readFileSync("./Assets/1706534223007.png")
 //💌------------------------------------------💌
 
 
@@ -96,25 +96,25 @@ global.img17 = 'https://i.imgur.com/9yLH4W4.jpeg'
 
 
 //Chatgpt
-global.gpt1 = fs.readFileSync("./Assets/GPT/gpt1.jpg")
-global.gpt2 = fs.readFileSync("./Assets/GPT/gpt2.png")
-global.gpt3 = fs.readFileSync("./Assets/GPT/gpt3.png")
-global.gpt4 = fs.readFileSync("./Assets/GPT/gpt4.png")
-global.gpt5 = fs.readFileSync("./Assets/GPT/gpt5.png")
-global.gpt6 = fs.readFileSync("./Assets/GPT/gpt6.png")
+global.gpt1 = fs.readFileSync("./Assets/1706534223007.png")
+global.gpt2 = fs.readFileSync("./Assets/1706534223007.png")
+global.gpt3 = fs.readFileSync("./Assets/1706534223007.png")
+global.gpt4 = fs.readFileSync("./Assets/1706534223007.png")
+global.gpt5 = fs.readFileSync("./Assets/1706534223007.png")
+global.gpt6 = fs.readFileSync("./Assets/1706534223007.png")
 //💌------------------------------------------💌
 
 
 // Randome
-global.princeMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img16, img17]
-global.princeImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11]
-global.princegpt = [gpt1, gpt2, gpt3, gpt4, gpt5, gpt6]
+global.princeMenu = fs.readFileSync("./Assets/1706534223007.png")
+global.princeImg = fs.readFileSync("./Assets/1706534223007.png")
+global.princegpt = fs.readFileSync("./Assets/1706534223007.png")
 //💌------------------------------------------💌
 
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = '233200857544' //contact
 //💌------------------------------------------💌
 
 
